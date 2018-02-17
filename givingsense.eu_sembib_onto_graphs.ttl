@@ -1,0 +1,15 @@
+<http://givingsense.eu/sembib/onto/sameas>
+        a       <https://www.wikidata.org/wiki/Q141488> .
+
+<http://givingsense.eu/sembib/onto/graphs>
+        a       <https://www.wikidata.org/wiki/Q141488> .
+
+<http://givingsense.eu/sembib/onto/tpt/biblio>
+        a       <https://www.wikidata.org/wiki/Q141488> .
+
+<http://givingsense.eu/sembib/onto/persons>
+        a       <https://www.wikidata.org/wiki/Q141488> .
+
+<http://givingsense.eu/sembib/onto/slov>
+        a       <https://www.wikidata.org/wiki/Q141488> .
+
