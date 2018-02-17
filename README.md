@@ -7,4 +7,4 @@ For example, the graph
 http://givingsense.eu/sembib/onto/tpt/biblio
 
 is saved with the request
-http://<private access point>/sembib/get?graph=http://givingsense.eu/sembib/onto/tpt/biblio
+http://!private access point!/sembib/get?graph=http://givingsense.eu/sembib/onto/tpt/biblio
