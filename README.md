@@ -1,6 +1,9 @@
 This git repository is made to publish some graphs build in the SemBib project
 (http://givingsense.eu/sembib/)
 
+See also some posts in
+https://onsem.wp.imt.fr/presentation/
+
 Graphs are saved with the graph store protocol
 
 For example, the graph
