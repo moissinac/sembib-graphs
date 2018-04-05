@@ -3,6 +3,8 @@ This git repository is made to publish some graphs built in the SemBib project
 
 See also some posts in
 https://onsem.wp.imt.fr/presentation/
+like
+https://onsem.wp.imt.fr/2018/04/05/where-telecom-paristech-publishes-regularly/
 
 Graphs are saved with the graph store protocol
 
