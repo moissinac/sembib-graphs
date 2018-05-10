@@ -27,3 +27,19 @@ Accociated SPARQL access points:
 
 Sample requests:
 see https://gist.github.com/moissinac
+
+For example:
+https://gist.github.com/moissinac/c6045b5eb052ca7bf4aab34f0c1a2427
+which gives a small list of graphs, where
+<http://givingsense.eu/sembib/onto/tpt/biblio>
+could concern a bibliography.
+Then
+https://gist.github.com/moissinac/5ff5ab9db1fb51ddd33997274ce8ff4f
+gives one and only one type in the ‘biblio’ graph
+<http://purl.org/spar/fabio/ResearchPaper>
+(also known as fabio:ResearchPaper)
+How many papers are in the ‘biblio’, the request
+https://gist.github.com/moissinac/1fba003e674cbd8bb31da64c9dfade8a
+gives 11607
+which is the count of papers in the original database at the date of the query.
+
