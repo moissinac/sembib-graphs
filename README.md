@@ -20,3 +20,10 @@ Available dumps:
 * givingsense.eu_sembib_onto_persons.ttl : graph describing persons and organizations
 * givingsense.eu_sembib_onto_slov.ttl	: graph with a sample domain vocabulary
 * givingsense.eu_sembib_onto_tpt_biblio.ttl	: graph describing publications of Telecom ParisTech (TPT)
+
+Accociated SPARQL access points:
+* http://givingsense.eu/sembib/sparql/  (based on ARC2, limited support of sparql)
+* https://ws49-cl4-jena.tl.teralab-datascience.fr/dataset.html?tab=query&ds=/sembib (based on Fuseki))
+
+Sample requests:
+see https://gist.github.com/moissinac
